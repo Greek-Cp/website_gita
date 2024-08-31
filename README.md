@@ -1,2 +1,2 @@
 # website_gita
- ini adalah website pertama saya
+ ini adalah website pertama saya mencoba
